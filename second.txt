@@ -1,0 +1,1 @@
+Now we can change diffrent file for commits

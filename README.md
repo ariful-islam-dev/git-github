@@ -17,3 +17,6 @@
 - See the all commit message in one line
 > git log --oneline
 
+- How to show commit info by commit id
+> git show "commit id"
+
