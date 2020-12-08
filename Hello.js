@@ -1,6 +1,3 @@
-function add(a,b){
-    return a+b
-}
 
 function divided(a,b){
     return a/b

@@ -37,9 +37,20 @@
 - How to switch any commit message
 > git checkout  commitId
 
+<<<<<<< HEAD
 - How to marge a branch to another branch
 > git marge branchName
 
+=======
+- How to know present branch
+> git branch
+
+- How to create git branch
+> git branch "branchName"
+
+- How switche one branch to another branch
+> git checkout "branch name"
+>>>>>>> branchA
 
 
 
