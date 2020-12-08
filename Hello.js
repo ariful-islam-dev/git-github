@@ -1,10 +1,7 @@
-function add(a, b) {
-    return a + b
+function multiply(a, b) {
+    return a * b
 }
-
-function divided(a, b) {
-    return a / b
-}
+console.log(multiply(7, 8));
 
 function remainder(a, b) {
     return a % b
