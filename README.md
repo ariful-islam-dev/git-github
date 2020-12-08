@@ -26,3 +26,11 @@
 - How to show different after file stagin
 > git diff --staged
 
+- How to see the different commit changes
+> git diff commitId commitId
+
+- How to delete any file from staging area
+> git rm filename
+
+
+

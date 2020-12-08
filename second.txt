@@ -1,3 +1,0 @@
-Now we can change diffrent file for commits
-
-Added another line for learning purpas
