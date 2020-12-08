@@ -37,7 +37,10 @@
 - How to switch any commit message
 > git checkout  commitId
 
-video 2 complete
+- How to marge a branch to another branch
+> git marge branchName
+
+
 
 
 
