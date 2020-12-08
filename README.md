@@ -1,4 +1,4 @@
-#Learn Git and GitHub from Stack-Learner Youtube Chanel
+# Learn Git and GitHub from Stack-Learner Youtube Chanel
 
 **How to use command**
 
@@ -34,7 +34,10 @@
  commit for delete message
 > git commit -m"delete message"
 
+- How to switch any commit message
+> git checkout  commitId
 
+video 2 complete
 
 
 
