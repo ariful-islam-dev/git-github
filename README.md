@@ -31,6 +31,10 @@
 
 - How to delete any file from staging area
 > git rm filename
+ commit for delete message
+> git commit -m"delete message"
+
+
 
 
 
