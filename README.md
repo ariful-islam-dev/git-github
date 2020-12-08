@@ -37,7 +37,15 @@
 - How to switch any commit message
 > git checkout  commitId
 
-video 2 complete
+- How to know present branch
+> git branch
+
+- How to create git branch
+> git branch "branchName"
+
+- How switche one branch to another branch
+> git checkout "branch name"
+
 
 
 
