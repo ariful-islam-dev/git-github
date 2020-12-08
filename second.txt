@@ -1,1 +1,2 @@
 Now we can change diffrent file for commits
+We learning git to better way

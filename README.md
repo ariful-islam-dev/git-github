@@ -20,3 +20,9 @@
 - How to show commit info by commit id
 > git show "commit id"
 
+- How to show prev and present file different 
+> git diff
+
+- How to show different after file stagin
+> git diff --staged
+
